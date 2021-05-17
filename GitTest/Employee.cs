@@ -19,3 +19,4 @@ namespace GitTest
         public int v5_prop2 { get; set; }
     }
 }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
