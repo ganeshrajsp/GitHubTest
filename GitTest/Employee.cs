@@ -14,5 +14,7 @@ namespace GitTest
         public int v2 { get; set; }
         public int v4_prop1 { get; set; }
         public int v4_prop2 { get; set; }
+
+        public int v5_prop1 { get; set; }
     }
 }
