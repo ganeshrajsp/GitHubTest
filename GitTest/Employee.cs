@@ -12,5 +12,6 @@ namespace GitTest
         public int Age { get; set; }
         public int temp { get; set; }
         public int v2 { get; set; }
+        public int v3 { get; set; }
     }
 }
